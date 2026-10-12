@@ -9,7 +9,7 @@ Para a construção e o funcionamento eficiente desta planilha, foram utilizados
 
 - **Uso de hyperlinks**: Para simular uma aplicação onde não é possível editar o layout, os hyperlinks foram usados para deixar os botões interativos.
 
-- **Criação de Dados** Personalizados: Implementada para melhorar a visualização de dados especiais (como nº telefone e celular).
+- **Criação de Dados Personalizados**: Implementada para melhorar a visualização de dados especiais (como nº telefone e celular).
 
 - **Validação de Dados**: Criação de listas suspensas e restrições de entrada para garantir a integridade e a padronização das informações inseridas.
 
